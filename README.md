@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/rheator/weird/blob/1302261aa407e801834a140b17b72dfdbee8b8bf/images/piercing.jpg =250x250)
+![alt text](https://github.com/rheator/weird/blob/1302261aa407e801834a140b17b72dfdbee8b8bf/images/piercing.jpg | width=100)
 
 <!-- Add your details -->
 
