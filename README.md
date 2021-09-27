@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://github.com/rheator/weird/blob/1302261aa407e801834a140b17b72dfdbee8b8bf/images/piercing.jpg)
 
 <!-- Add your details -->
 
