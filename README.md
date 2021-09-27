@@ -12,11 +12,11 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/rheator/weird/blob/1302261aa407e801834a140b17b72dfdbee8b8bf/images/piercing.jpg)
+![alt text](https://github.com/rheator/weird/blob/1302261aa407e801834a140b17b72dfdbee8b8bf/images/piercing.jpg| =250x250)
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Bob__, a cat.
 
 
 <!-- Add link to the sections -->
